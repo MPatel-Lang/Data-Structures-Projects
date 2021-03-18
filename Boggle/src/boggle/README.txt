@@ -1,0 +1,2 @@
+Given an M x N grid of letters, allow a word search in all eight cardinal and secondary cardinal directions 
+(north, south, east, west, north-west, north east, south west, and south east). Words should not use the same letter multiple times. 
